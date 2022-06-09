@@ -1,0 +1,9 @@
+badcase.txt
+*.pyc
+*.zip
+outputs/
+bert_wwm_ext/
+*.tsv
+*.pdf
+.vscode/ltex.disabledRules.en-US.txt
+.vscode/launch.json
