@@ -16,14 +16,10 @@ sequence labeling
 """
 import argparse
 import ast
-import json
 import os
-import pdb
-import random
 import shutil
 import warnings
 from collections import defaultdict
-from dataclasses import dataclass
 from functools import partial
 from typing import Tuple
 
